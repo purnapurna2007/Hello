@@ -1,7 +1,8 @@
 {
   "name": "levanter@5.2.3",
   "description": "",
-  "keywords": ["noedjs"],
+  "logo":"https://telegra.ph/file/57c3083b60b2bea6ec132.jpg",
+  "repository":"https://github.com/purnapurna2007/Hello/",
   "success_url": "/",
   "env": {
     "ALWAYS_ONLINE": {
