@@ -1,10 +1,12 @@
 {
-  "name": "levanter@5.2.3",
-  "description": "",
+  "name":"DEXTER-V1-MD",
+  "description":"An easy and simple WhatsApp bot developed by France King",
+  "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/57c3083b60b2bea6ec132.jpg",
   "repository":"https://github.com/purnapurna2007/Hello/",
-  "success_url": "/",
-  "env": {
+  "succes_url":"/",
+  "stack":"container",
+  "env":{
     "ALWAYS_ONLINE": {
       "description": "show bot number last seen as online",
       "required": false,
